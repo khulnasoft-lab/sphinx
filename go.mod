@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/Clever/leakybucket v1.1.0
-	github.com/aws/aws-sdk-go v1.29.34
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/eapache/go-resiliency v1.2.0 // indirect
 	github.com/garyburd/redigo v1.6.0 // indirect
 	github.com/google/uuid v1.1.1 // indirect
